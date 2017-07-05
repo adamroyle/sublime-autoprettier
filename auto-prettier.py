@@ -1,3 +1,6 @@
+# AutoPrettier v1.1
+# https://github.com/adamroyle/sublime-prettier-on-save
+
 import sublime
 import sublime_plugin
 import os
