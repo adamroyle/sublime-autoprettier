@@ -6,7 +6,7 @@ Basic Sublime Text 3 plugin that runs Prettier commands from your package.json o
 
 ```
 mkdir -p ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/AutoPrettier
-curl -o ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/AutoPrettier/auto-prettier.py https://raw.githubusercontent.com/adamroyle/sublime-prettier-on-save/master/auto-prettier.py
+curl -o ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/AutoPrettier/auto-prettier.py https://raw.githubusercontent.com/adamroyle/sublime-autoprettier/master/auto-prettier.py
 ```
 ## Compatibility
 
